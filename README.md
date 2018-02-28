@@ -1,5 +1,5 @@
 # GoF-Patterns
-## Implementations of
+## Basic implementations of
 ### Factory Method
 ### Adapter (class)
 ### Interpreter
